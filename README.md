@@ -1,1 +1,2 @@
-# mini-movies
+# kc-wx
+原生微信小程序
